@@ -1,0 +1,6 @@
+"metric","default_value","optimized_value","direction"
+"Test_AUC",0.835748788152626,0.844141886793747,"increased"
+"AUCdiff",0.110266207276363,0.0908558320695069,"improved"
+"OR10",0.241379310344828,0.206896551724138,"improved"
+"AICc",2880.67040595509,2654.74416232851,"improved"
+"N_nonzero_coefficients",69,29,"improved"
